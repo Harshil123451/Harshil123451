@@ -111,9 +111,9 @@ A student-focused platform for events, housing, food spots, and community networ
 
 ## Connect With Me
 
-- LinkedIn: [Add Your LinkedIn]
-- Portfolio: [Add Portfolio Link]
-- Email: [Add Your Email]
+- LinkedIn: www.linkedin.com/in/krishi-chheda
+- Portfolio: https://krishi-portfolio.vercel.app/
+- Email: krishichheda10@gmail.com
 
 ---
 
