@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Harshil</h1>
+<h1 align="center">Hi, I'm Krishi</h1>
 
 <h3 align="center">
 AI Engineer • Computer Vision Developer • Full Stack Builder
